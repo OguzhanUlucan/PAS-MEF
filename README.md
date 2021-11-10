@@ -5,7 +5,7 @@ This is the implementation for [PAS-MEF: Multi-exposure image fusion based on pr
 
 ## Abstract 
 
-* High dynamic range (HDR) imaging enables to immortalize natural scenes similar to the way that they are perceived by human observers. With regular low dynamic range (LDR) capture/display devices, significant details may not be preserved in images due to the huge dynamic range of natural scenes. To minimize the information loss and produce high quality HDR-like images for LDR screens, this study proposes an efficient multi-exposure fusion (MEF) approach with a simple yet effective weight extraction method relying on principal component analysis, adaptive well-exposedness and saliency maps. These weight maps are later refined through a guided filter and the fusion is carried out by employing a pyramidal decomposition. Experimental comparisons with existing techniques demonstrate that the proposed method produces very strong statistical and visual results.*
+*High dynamic range (HDR) imaging enables to immortalize natural scenes similar to the way that they are perceived by human observers. With regular low dynamic range (LDR) capture/display devices, significant details may not be preserved in images due to the huge dynamic range of natural scenes. To minimize the information loss and produce high quality HDR-like images for LDR screens, this study proposes an efficient multi-exposure fusion (MEF) approach with a simple yet effective weight extraction method relying on principal component analysis, adaptive well-exposedness and saliency maps. These weight maps are later refined through a guided filter and the fusion is carried out by employing a pyramidal decomposition. Experimental comparisons with existing techniques demonstrate that the proposed method produces very strong statistical and visual results.*
 
 
 ##  Prerequisites
@@ -30,9 +30,13 @@ IEEE Transactions on Image Processing, vol. 24,pp. 3345 - 3356, Nov.2015.
 ```
  
   Usage:
-        (1) Install the PAS-MEF package by using the "run install" commad.
-        (2) Select the image stacks folder to be fused.
-        (3) Run the MAIN.m code in order to obtain results.
+  
+        (1) Install the PAS-MEF package by using the "run install" command
+        
+        (2) Select the image stacks folder to be fused
+        
+        (3) Run the PAS-MEF code in order to obtain results
+        
         (4) Uninstall the PAS-MEF packages by using the "run uninstall" command
 
 
