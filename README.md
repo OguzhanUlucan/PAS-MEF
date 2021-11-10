@@ -1,6 +1,6 @@
 # PAS-MEF: Multi-exposure image fusion based on principal component analysis, adaptive well-exposedness and saliency map 
 
-This is the implementation for [PAS-MEF: Multi-exposure image fusion based on principal component analysis, adaptive well-exposedness and saliency map](https://arxiv.org/abs/2105.11809), [Diclehan Karakaya](https://www.researchgate.net/profile/Diclehan_Karakaya), [Oguzhan Ulucan](https://www.researchgate.net/profile/Oguzhan_Ulucan),  [Mehmet Turkan](http://homes.ieu.edu.tr/mehmetturkan/), arXiv preprint arXiv:2105.11809, 2021.
+This is the implementation for *[PAS-MEF: Multi-exposure image fusion based on principal component analysis, adaptive well-exposedness and saliency map]*(https://arxiv.org/abs/2105.11809), [Diclehan Karakaya](https://www.researchgate.net/profile/Diclehan_Karakaya), [Oguzhan Ulucan](https://www.researchgate.net/profile/Oguzhan_Ulucan),  [Mehmet Turkan](http://homes.ieu.edu.tr/mehmetturkan/), arXiv preprint arXiv:2105.11809, 2021.
 
 
 ## Abstract 
