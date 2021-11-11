@@ -75,4 +75,7 @@ If you find this work useful in your research, please consider citing:
 
 ### Related Research Projects
 
+- [Image Fusion Through Linear Embeddings IEEE-ICIP-21](https://github.com/OguzhanUlucan/Image-Fusion-Through-Linear-Embeddings-IEEE-ICIP-21): A image fusion technique based on linear embeddings (IEEE ICIP 21).
+
+
 - [Multi-Exposure Image Fusion based on Linear Embeddings and Watershed Masking](https://github.com/DiclehanOguzhan/MDO_MEF): A multi-exposure image fusion technique based on linear embeddings & Watershed Masking (Elsevier Signal Processing).
