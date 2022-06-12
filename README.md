@@ -62,11 +62,13 @@ Fusion results of MDO-MEF and PAS-MEF:
 If you find this work useful in your research, please consider citing:
 
 ```
-@article{karakaya2021pas,
+@inproceedings{karakaya2022pas,
   title={PAS-MEF: Multi-exposure image fusion based on principal component analysis, adaptive well-exposedness and saliency map},
   author={Karakaya, Diclehan and Ulucan, Oguzhan and Turkan, Mehmet},
-  journal={arXiv preprint arXiv:2105.11809},
-  year={2021}
+  booktitle={ICASSP 2022-2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+  pages={2345--2349},
+  year={2022},
+  organization={IEEE}
 }
 
 ```
